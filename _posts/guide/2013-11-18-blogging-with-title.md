@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging with title
-tags: [Test, Ipsum, Markdown, Portfolio]
+tags: [jekyll教程]
 ---
 
 # I am a BIG title

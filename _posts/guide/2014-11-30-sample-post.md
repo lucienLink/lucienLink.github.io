@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample post
-tags: [A Tag, Test, Lorem, Ipsum]
+tags: [jekyll教程]
 excerpt_separator: <!--more-->
 ---
 
