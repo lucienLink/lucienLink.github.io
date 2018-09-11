@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/githubPage"
+baseurl: ""
 url: "https://sylhare.github.io"
 title: Link's Home # site's title
 description: "LucienLink" # used by search engines
