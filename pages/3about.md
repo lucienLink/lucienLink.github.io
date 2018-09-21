@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: comment
 title: 关于
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
